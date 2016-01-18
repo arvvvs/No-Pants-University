@@ -1,6 +1,6 @@
 # Welcome to No Pants University!
 
-** Stream Link **: [No Pants University](https://www.livecoding.tv/benevolently/)
+**Stream Link**: [No Pants University](https://www.livecoding.tv/benevolently/)
 
 Here we will learn things. 
 
