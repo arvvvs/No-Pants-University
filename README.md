@@ -10,7 +10,7 @@ Hence the name, "No Pants University." You are not to be confined by the need to
 But even more seriously, I feel like I've become rusty even though I recently graduated. 
 I feel like I need to re-learn earlier topics and try to get more out of them.
 
-So, join me on my journey to learn/re-learn!
+So, join me on my journey to learn/re-learn/get more out of my learning!
 
 ## Tenative List of Topics
 
