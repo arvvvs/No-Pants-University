@@ -39,7 +39,6 @@ So, I will gladly purchase new and noteworthy books and take the information I l
 But if you love my work, donations are greatly appreciated. But by no means is it necessary. I love doing teaching. 
 Everytime I was a TA in undergrad, I was happy to help people with their concerns and questions. 
 I was also happy to research questions I didn't know the answer to off the top of my head and return to them a proper answer.
-=======
-# No-Pants-University
-Learn from home with no pants.
->>>>>>> 7f3dfc36a9df1d46e6a4d0c8356cf64ac4667482
+
+
+
