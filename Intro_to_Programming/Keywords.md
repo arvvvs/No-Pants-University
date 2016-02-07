@@ -4,7 +4,7 @@
 
 
 
-* **Program** - A set of instructions.
+* **Program** - A set of instructions or statements or commands.
 * **Programming language** - A formally designed language to be able to communicate instructions to a machine.
 * **Bug** - *(Informal)* Something we will be spending a lot of time trying to avoid, fix or minimize.
 *(Very Informal)* A fuck up or many fuck ups somewhere.
@@ -15,4 +15,5 @@
 * **Type** - Consists of two things: (1) A set of values (2) A set of operations that be performed on those values.
 * **Operator** - A function that performs something on a value or set of values (+, -)
 * **Overloaded Operator** - A function that be applied to more than one type of value (+, - can be performed on ints and floats)
-* **Variable**
+* **Variable** - A temporary storage for a value
+* **=** - The equal does not mean equals. In python, we can x = 3 and that's fine. But 3 = x gives us an error.
