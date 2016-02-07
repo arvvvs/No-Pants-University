@@ -42,7 +42,7 @@ So, join me on my journey to learn/re-learn/get more out of my learning!
 * Each folder will have a README.md that notes the different subtopics within the parent topic.
 * There will be a Questions.md that notes noteable questions asked on stream or I ask myself.
 * If I don't know an answer to a question, I'll research it and comeback on the next stream to answer it and it will be noted in the file.
-* There might be a Gitbook ([Gitbook](https://www.gitbook.com/)) where I will put written notes on.
+* There might be a ([Gitbook](https://www.gitbook.com/)) where I will put written notes on.
 * There might be slides or something along that sort. 
 * Recorded videos might be put on Vimeo/YouTube
 

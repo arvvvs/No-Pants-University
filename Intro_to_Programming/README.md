@@ -3,3 +3,7 @@
 # Tentative Topics to Be Covered
 
 * Installing Python
+* What is a program?
+* What is a programming 
+* What is a bug?
+* 
