@@ -6,4 +6,4 @@
 * What is a program?
 * What is a programming 
 * What is a bug?
-* 
+* How does a machine run a Python program?
