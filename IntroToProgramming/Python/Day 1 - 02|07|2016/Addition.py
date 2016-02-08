@@ -6,6 +6,6 @@ def addition(x, y):
     z = x + y
     print(z)
 
-addition(3, 2.0)
+addition(3.0, 2.0)
 
 # When we invoke the addition function in the last line, we set x = 3.0, y = 2.0
