@@ -3,9 +3,11 @@
 # Print z
 
 def addition(x, y):
-    z = x + y
-    print(z)
+    result = x + y
+    print(result)
 
-addition(3.0, 2.0)
+addition(str(3.0), " hello")
 
 # When we invoke the addition function in the last line, we set x = 3.0, y = 2.0
+
+# "3.0" + " hello" = "3.0 hello"

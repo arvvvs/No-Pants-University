@@ -17,3 +17,17 @@
 * **Overloaded Operator** - A function that be applied to more than one type of value (+, - can be performed on ints and floats)
 * **Variable** - A temporary storage for a value
 * **=** - The equal does not mean equals. In python, we can x = 3 and that's fine. But 3 = x gives us an error.
+* Implicit Declaration
+* Explicit Declaration
+* Declarative Knowledge - Statements of fact [x is the square root of y such that x*x = y]
+* Imperative Knowledge - "how to" knowledge 
+1. Start with a guess g
+2. If g*g is close enough to x, stop and say g is the answer
+3. Otherwise create a new guess by average g and x/g
+4. Use this new guess to repeat the process
+* Algorithm - Recipe or sequence of controlled steps
+* Syntax - strings of chracters or symbols that are well defined [Cat dog boy. - Not well defined]
+* Static Semantics - Valid syntax that actually has meaning [I are a big guy. - Wrong use of the verb "to be]
+* Minimum Value Product (MVP) [Business/Startup Lingo] - Creating the product with the bare minimumu requirements. Then, after production of MVP, go back and update/make it better/fix.
+* Modularity - The ability to mix and match or producing your program in components individual and independent of each other
+* Separation of Concerns 
