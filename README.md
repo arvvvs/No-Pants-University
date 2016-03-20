@@ -9,16 +9,19 @@ Hence the name, "No Pants University." You are not to be confined by the need to
 
 But even more seriously, I feel like I've become rusty even though I recently graduated. 
 I feel like I need to re-learn earlier topics and try to get more out of them.
+Cause I don't remember shit.
 
 So, join me on my journey to learn/re-learn/get more out of my learning!
 
-## Tenative List of Topics
+## Tenative List of Topics - I Will Try to Follow a Nice Structure Soon
+## I Will First Have To Decide How I Want To Go About It After Intro Stuff
 
 * Introduction to Computer Programming
 * Object Oriented Programming
 * Computer Systems/Computer Architecture
 * Data Structures and Algorithms
 * Algorithm Design and Analysis
+* Operating Systems
 * Automata Theory (Maybe)
 * Design Patterns
 * Advanced Object Oriented Programming Concepts (From a class that I took while matriculated at Binghamton U)
