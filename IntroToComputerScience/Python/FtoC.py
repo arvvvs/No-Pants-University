@@ -2,7 +2,7 @@
 # Description: A simple temperature converter from farenheit to celsius
 
 
-# README: Edited this to just take in just a simple numer
+# README: Edited this to just take in just a simple number
 # We will look at user I/O in a different file
 
 
