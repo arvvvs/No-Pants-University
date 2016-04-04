@@ -1,5 +1,5 @@
-# Ben Rodriguez
-# Description: A simple temperature converter from farenheit to celsius
+# @author: Ben Rodriguez
+# @description: A simple temperature converter from farenheit to celsius
 
 
 # README: Edited this to just take in just a simple number

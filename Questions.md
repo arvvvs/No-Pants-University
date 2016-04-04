@@ -11,4 +11,5 @@ I will try to address the questions during the current stream they are asked in 
 * What can actually be computed? What are our limitations?
 * How does the hardware factor into all of this?
 * How does memory fit into the scheme of things? How are things stored?
-* Parameters vs. Arguments
+* Parameters vs. Arguments?
+* What types of errors will we encounter?
