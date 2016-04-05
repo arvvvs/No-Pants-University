@@ -12,4 +12,5 @@ I will try to address the questions during the current stream they are asked in 
 * How does the hardware factor into all of this?
 * How does memory fit into the scheme of things? How are things stored?
 * Parameters vs. Arguments?
+* Script vs. Program?
 * What types of errors will we encounter?

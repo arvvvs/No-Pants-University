@@ -16,16 +16,17 @@ So, join me on my journey to learn/re-learn/get more out of my learning!
 ## Tenative List of Topics - I Will Try to Follow a Nice Structure Soon
 ## I Will First Have To Decide How I Want To Go About It After Intro Stuff
 
-* Introduction to Computer Programming
+* Introduction to Computer Science
 * Object Oriented Programming
+* Introduction to Functional Programming
+* Data Structures and Algorithms and Algorithm Design and Analysis
 * Computer Systems/Computer Architecture
-* Data Structures and Algorithms
-* Algorithm Design and Analysis
 * Operating Systems
-* Automata Theory (Maybe)
+* Automata Theory
+* Programming Languages/Type Theory/Programming Language Design and Implementation
 * Design Patterns
 * Advanced Object Oriented Programming Concepts (From a class that I took while matriculated at Binghamton U)
-* Functional Programming
+
 
 *Open to suggestions.*
 
@@ -33,7 +34,8 @@ So, join me on my journey to learn/re-learn/get more out of my learning!
 
 * Databases
 * Web Development
-* Data Mining (Maybe)
+* Introduction to Machine Learning
+* Introduction to Data Mining
 * Some Mathematical Concepts (Not sure how I will show them on stream yet)
 
 *Open to suggestions.*
@@ -43,7 +45,7 @@ So, join me on my journey to learn/re-learn/get more out of my learning!
 * Code repository where all the code will be: [No Pants University Repo](https://github.com/Ben-Evolently/No-Pants-University/)
 * There will be folders noting the topics I have done or will be doing. 
 * Each folder will have a README.md that notes the different subtopics within the parent topic.
-* There will be a Questions.md that notes noteable questions asked on stream or I ask myself.
+* There will be a QUESTIONS.md that notes noteable questions asked on stream or I ask myself.
 * If I don't know an answer to a question, I'll research it and comeback on the next stream to answer it and it will be noted in the file.
 * There might be a ([Gitbook](https://www.gitbook.com/)) where I will put written notes on.
 * There might be slides or something along that sort. 
