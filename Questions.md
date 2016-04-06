@@ -14,3 +14,5 @@ I will try to address the questions during the current stream they are asked in 
 * Parameters vs. Arguments?
 * Script vs. Program?
 * What types of errors will we encounter?
+* Expressions vs. Statements?
+* Assignment vs. Equality

@@ -26,6 +26,13 @@
 * Argument - The actual value of the type that gets passed into a function. 
 * Algorithm - A recipe to solve a problem
 * Scope - "Beginner" definition - Where you are in the program 
+* Expression - produces a result, an expression is usually evaluated
+* Statement - statement does not produce a result, it is relied to DO something, a statement is usually executed
+* Variables - space in memory where a value is stored
+* Assignment Statements - basic assignment of variables, format: <variable> = <expression> (x = y doesn't necessarily mean y = x)
+* Operand - specified quantity or element manipulated
+* Casting
+* Coercion
 
 
 ## Programming Process as by John Zelle
@@ -47,3 +54,10 @@
 * When you get to a point where you're done or almost done, test, test, test, test, test, test
 * Repeat as often as possible (previous 4 steps)
 * Validate (Maintain the program)
+
+
+## Random Notes
+### Two ways of invoking Print in Python
+* print()
+* print(<expression>, <expression>, ...)
+* := in other languages for assignment 
