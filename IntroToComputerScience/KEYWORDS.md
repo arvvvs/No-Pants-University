@@ -55,9 +55,3 @@
 * Repeat as often as possible (previous 4 steps)
 * Validate (Maintain the program)
 
-
-## Random Notes
-### Two ways of invoking Print in Python
-* print()
-* print(<expression>, <expression>, ...)
-* := in other languages for assignment 
