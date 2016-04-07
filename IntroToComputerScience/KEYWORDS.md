@@ -3,10 +3,12 @@
 ## This will be a list of keywords pertaining to the current topic. 
 ## We will see a lot of these repeated as we go along.
 
-* Class
+* Class - to be defined later
 * Function - "Beginner" definition - set of instructions that takes an input and releases an output (See: temperature convert function)
 * Separation of Concerns/Modularity - The idea that if one piece of your code does something different from another piece of your code, they most likely should be different functions
 * Invoke - To call
+* Identifiers - Names in the program 
+     Ex: We named the function for temperature convert "FtoC" 
 * Type - "Beginner" definition - a set of values and operations that operate on those set of values
 * Parameter - A type that gets passed into a function that the function uses to execute its set of instructions. (See: temperature convert function) If a function requires an integer to be passed to it, the integer *type* is the parameter
 * Argument - The actual value of the type that gets passed into a function. 
@@ -33,7 +35,6 @@
     * Parser - A parser organizers the tokens into a specific hierarchy called a parse tree
     * Static Semantic Errors - Semantic analysis tries to discover the meaning of a program by analyzing the parse tree
     * Static Semantic Checking Examples: Type checking, every variable is declared before use, multiple declarations (dependent on scope), checking function call arguments, identifiers used appropriately  
-* Identifiers - Names in the program Ex: We named the function for temperature convert "FtoC"
 * Runtime Errors - In the middle of execution, the program runs into a problem and can't finish execution or provides the wrong output.
     * Dynamic semantic error. Ex: Destroy the world by dividing by 0, a variable is used but not initialized, array out of bounds error 
 * Exception - Brought up during runtime when execution fails 
