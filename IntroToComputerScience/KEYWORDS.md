@@ -10,15 +10,15 @@
 * Syntax - string or set of characters that are well defined. Ex: Girl dog candy.
 * Semantics - Valid syntax that actually has meaning. Ex: I are awesome. 
 * Compile Time Errors - When a compiler tries to make sense of your program and can't 
-* Compile Time Error: Lexical Errors - In lexical analysis, the lexor, breaks up the program into a stream of tokens
-* Compile Time Error: Tokens - programming language specific keywords, operators, identifiers, numbers, punctuation
-* Compile Time Error: Syntax Error: When the parse tree can not be constructed 
-* Compile Time Error: Parser - A parser organizers the tokens into a specific hierarchy called a parse tree
-* Compile Time Error: Static Semantic Errors - Semantic analysis tries to discover the meaning of a program by analyzing the parse tree
-* Compile Time Error: Static Semantic Checking Examples: Type checking, every variable is declared before use, multiple declarations (dependent on scope), checking function call arguments, identifiers used appropriately  
+    * Lexical Errors - In lexical analysis, the lexor, breaks up the program into a stream of tokens
+    * Tokens - programming language specific keywords, operators, identifiers, numbers, punctuation
+    * Syntax Error: When the parse tree can not be constructed 
+    * Parser - A parser organizers the tokens into a specific hierarchy called a parse tree
+    * Static Semantic Errors - Semantic analysis tries to discover the meaning of a program by analyzing the parse tree
+    * Static Semantic Checking Examples: Type checking, every variable is declared before use, multiple declarations (dependent on scope), checking function call arguments, identifiers used appropriately  
 * Identifiers - Names in the program Ex: We named the function for temperature convert "FtoC"
 * Runtime Errors - In the middle of execution, the program runs into a problem and can't finish execution or provides the wrong output.
-* Runtime Error: Dynamic semantic error. Ex: Destroy the world by dividing by 0, a variable is used but not initialized, array out of bounds error 
+    * Dynamic semantic error. Ex: Destroy the world by dividing by 0, a variable is used but not initialized, array out of bounds error 
 * Exception - Brought up during runtime when runtime fails 
 * Invoke - To call
 * Type - "Beginner" definition - a set of values and operations that operate on those set of values
