@@ -6,9 +6,22 @@
 * Class
 * Function - "Beginner" definition - set of instructions that takes an input and releases an output (See: temperature convert function)
 * Separation of Concerns/Modularity - The idea that if one piece of your code does something different from another piece of your code, they most likely should be different functions
-* Parsing - A parser goes through your code to able to determine the meaning of pieces of your code. 
+* Invoke - To call
+* Type - "Beginner" definition - a set of values and operations that operate on those set of values
+* Parameter - A type that gets passed into a function that the function uses to execute its set of instructions. (See: temperature convert function) If a function requires an integer to be passed to it, the integer *type* is the parameter
+* Argument - The actual value of the type that gets passed into a function. 
+* Algorithm - A recipe to solve a problem
+* Scope - "Beginner" definition - Where you are in the program 
+* Expression - produces a result, an expression is usually evaluated
+* Statement - statement does not produce a result, it is relied to DO something, a statement is usually executed
+* Variables - space in memory where a value is stored
+* Assignment Statements - basic assignment of variables, format: <variable> = <expression> (x = y doesn't necessarily mean y = x)
+* Operand - specified quantity or element manipulated
+* Casting
+* Coercion 
 
 ## Errors
+* Parsing - A parser goes through your code to able to determine the meaning of pieces of your code.
 * Syntax - string or set of characters that are well defined. 
     * Ex of something that not well defined: Girl dog candy.
 * Semantics - Valid syntax that actually has meaning. 
@@ -23,21 +36,9 @@
 * Identifiers - Names in the program Ex: We named the function for temperature convert "FtoC"
 * Runtime Errors - In the middle of execution, the program runs into a problem and can't finish execution or provides the wrong output.
     * Dynamic semantic error. Ex: Destroy the world by dividing by 0, a variable is used but not initialized, array out of bounds error 
-* Exception - Brought up during runtime when runtime fails 
+* Exception - Brought up during runtime when execution fails 
 
-* Invoke - To call
-* Type - "Beginner" definition - a set of values and operations that operate on those set of values
-* Parameter - A type that gets passed into a function that the function uses to execute its set of instructions. (See: temperature convert function) If a function requires an integer to be passed to it, the integer *type* is the parameter
-* Argument - The actual value of the type that gets passed into a function. 
-* Algorithm - A recipe to solve a problem
-* Scope - "Beginner" definition - Where you are in the program 
-* Expression - produces a result, an expression is usually evaluated
-* Statement - statement does not produce a result, it is relied to DO something, a statement is usually executed
-* Variables - space in memory where a value is stored
-* Assignment Statements - basic assignment of variables, format: <variable> = <expression> (x = y doesn't necessarily mean y = x)
-* Operand - specified quantity or element manipulated
-* Casting
-* Coercion
+
 
 
 ## Programming Process as by John Zelle
