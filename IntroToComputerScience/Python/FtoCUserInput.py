@@ -3,7 +3,7 @@
 
 def FtoCUserInput():
 
-    farenheit = int(input("Please, enter a number to conver to Celsius: "))
+    farenheit = int(input("Please, enter a number to convert to Celsius: "))
     celsius = ((farenheit - 32) / 1.8)
     print(celsius)
 
