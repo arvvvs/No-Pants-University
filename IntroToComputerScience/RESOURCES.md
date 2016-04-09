@@ -8,3 +8,5 @@ All resources will be listed here.
 
 * Podcast: codingblocks.NET
 * Book: Python Programming: An Introduction to Computer Science by John Zelle
+* Parsing: https://pypi.python.org/pypi/parse (Provided by nrhagen)
+* Casting vs. Coercion: http://stackoverflow.com/questions/1602122/casting-vs-coercion-in-python (Provided by nrhagen)
